@@ -37,10 +37,12 @@ Provide e-waste facilities with a dashboard showcasing real-time analytics and i
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/bf678906-b7db-4efb-a40a-9005992fc91b)
+
 
 ## Use Cases
-![alt text](10-2.jpg)
+![Uploading image.png…]()
+
 
 ## Technology Stack
 React.js
