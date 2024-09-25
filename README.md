@@ -41,7 +41,7 @@ Provide e-waste facilities with a dashboard showcasing real-time analytics and i
 
 
 ## Use Cases
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/181b8287-0ba6-477e-9798-b244556a5880)
 
 
 ## Technology Stack
